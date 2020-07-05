@@ -4,7 +4,7 @@
 #### ssGSEA for Figure3a
 #### correlation&violin for Figure3d
 #### WGCNA for Figure4
-#### lasso for the constrution of signature
+#### lasso for the constrution and calculation of signature and plot for fig5
 
 ### *Citation*
 #### *Langfelder P, Horvath S. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics. 2008;9:559. Published 2008 Dec 29. doi:10.1186/1471-2105-9-559*
